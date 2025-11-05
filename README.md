@@ -87,3 +87,10 @@ In your answer, cover the following:
 **Context:** The Manager of the Data Analytic Hub wants to position Cape Town as a leader in AI. They have asked you to start the initial planning to host a large, 3-day "AI Horizons Cape Town" conference next year. The goal is to attract 500 international delegates and several world-renowned AI speakers.
 
 **Your Task:** This is a major event requiring significant planning. Based on the "DATA EVENT PLANNING COORDINATION" KPA, outline your initial 5-step action plan. What are the first 5 major things you would do to move this from an idea to a concrete project?
+
+### Submission Guidelines
+
+* Consolidate all your answers into a single structured pdf document.
+* Include visuals or diagrams if they help communicate your ideas.
+* Email the repository link to us.
+
