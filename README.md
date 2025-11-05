@@ -18,8 +18,6 @@ The goal is to assess your coordination, planning, and communication skills as t
 
 Please manage your time carefully. Recommended times are provided for each section.
 
-Write your answers in the space provided (or in a separate document).
-
 ---
 
 ### Part 1: Scenario - Procurement & Project Management (20 Minutes)
@@ -33,8 +31,6 @@ In your answer, cover the following:
 * **Key Steps:** What are the 5-7 most critical steps you would take, from initiation to completion?
 * **Stakeholders:** Who are the key departments (e.g., Legal, SCM, etc.) you would need to liaise with, and why?
 * **Immediate Risks:** What are the top 3 risks you would immediately flag to the Manager of the Data Analytics Hub?
-
-*(Write your answer below)*
 
 ---
 
@@ -77,8 +73,6 @@ In your answer, cover the following:
 
 * **Rewrite the Communication:** Rewrite this note into a clear, user-friendly email communication for a non-technical audience (e.g., business managers, analysts).
 * **Identify Missing Information:** List 3-5 key pieces of information you would need to get from the technical team before you would be comfortable sending this communication.
-
-*(Write your answer below)*
 
 ---
 
