@@ -82,7 +82,7 @@ In your answer, cover the following:
 
 **Your Task:** This is a major event requiring significant planning. Based on the "DATA EVENT PLANNING COORDINATION" KPA, outline your initial 5-step action plan. What are the first 5 major things you would do to move this from an idea to a concrete project?
 
-### Submission Guidelines
+## Submission Guidelines
 
 * Consolidate all your answers into a single structured pdf document.
 * Include visuals or diagrams if they help communicate your ideas.
